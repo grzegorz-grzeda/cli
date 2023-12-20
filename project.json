@@ -1,0 +1,8 @@
+{
+    "name": "cli",
+    "description": "Simple Command Line Interface library in C",
+    "license": "mit",
+    "author": "Grzegorz Grzęda",
+    "libraries": [
+    ]
+}
